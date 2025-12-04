@@ -26,15 +26,15 @@ jsplv/
 │   │   └── webapp/
 │   │       ├── WEB-INF/
 │   │       │   └── web.xml                # Web应用配置文件
-│   │       ├── uploads/                   # 图片上传目录（自动生成）
-│   │       ├── login.jsp                  # 用户登录页面（需创建）
-│   │       ├── index.jsp                  # 城市列表主页（需创建）
-│   │       ├── city_add.jsp               # 添加城市页面（需创建）
-│   │       ├── city_edit.jsp              # 编辑城市页面（需创建）
-│   │       ├── attraction_list.jsp        # 景点列表页面（需创建）
-│   │       ├── attraction_add.jsp         # 添加景点页面（需创建）
-│   │       ├── attraction_detail.jsp      # 景点详情页面（需创建）
-│   │       └── image_upload.jsp           # 图片上传页面（需创建）
+│   │       ├── uploads/                   # 图片上传目录
+│   │       ├── login.jsp                  # 用户登录页面
+│   │       ├── index.jsp                  # 城市列表主页
+│   │       ├── city_add.jsp               # 添加城市页面
+│   │       ├── city_edit.jsp              # 编辑城市页面
+│   │       ├── attraction_list.jsp        # 景点列表页面
+│   │       ├── attraction_add.jsp         # 添加景点页面
+│   │       ├── attraction_detail.jsp      # 景点详情页面
+│   │       └── image_upload.jsp           # 图片上传页面
 ```
 
 ## 环境要求
